@@ -20,16 +20,19 @@ source_metadata:
       title: ''
       volume_number: 7
       total_pages: 698
+      base_file: v001.txt
     b5330543119447e4a36b0440989e91fe:
       image_group_id: I1KG13614
       title: ''
       volume_number: 8
       total_pages: 694
+      base_file: v002.txt
     98aa57d08a1d4db3b4330de063d2e1de:
       image_group_id: I1KG13615
       title: ''
       volume_number: 9
       total_pages: 800
+      base_file: v003.txt
     806993ea4a7d48598f8785f208fb3b44:
       image_group_id: I3593
       title: ''
